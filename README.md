@@ -1,5 +1,5 @@
 # UAV-SDR-USRP
-An UAV detection SDR system with labview、matlab、python and web
+An UAV detection SDR system with labview、matlab、python and javaweb
 
 ## Labview
 - Transmitter Front Panel
